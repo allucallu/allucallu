@@ -4,7 +4,7 @@ title: "Pertapa dan Gaya Hidup Sederhana: Pelajaran Berharga untuk Kehidupan Mod
 date: 2025-05-18
 categories: [fakta-unik, gaya-hidup]
 tags: [pertapa, hidup sederhana, mindfulness, tips hidup, ketenangan batin]
-author: DigitalDagangID
+author: Callu
 excerpt: "Temukan inspirasi dari kehidupan seorang pertapa. Pelajari gaya hidup sederhana yang menenangkan dan bagaimana menerapkannya dalam kehidupan sehari-hari."
 ---
 
