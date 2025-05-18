@@ -131,7 +131,7 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Articel By Callu
+- title: Article By Callu
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
