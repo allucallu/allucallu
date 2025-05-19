@@ -5,6 +5,8 @@ date: 2025-05-19 08:00:00 +0700
 categories: [fakta, gaya hidup]
 image: /assets/artikel 3.png
 description: "Kumpulan fakta simpel tapi mind-blowing yang sering kita alami sehari-hari, tapi jarang kita sadari. Wajib baca, deh!"
+tags: [fakta unik, anak muda, funfact, kebiasaan sehari-hari]
+author: Callu
 ---
 
 ![Fakta Harian](/assets/artikel 3.png)
