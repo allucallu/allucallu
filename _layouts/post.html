@@ -22,4 +22,48 @@ layout: default
 
 </main>
 
+<div id="view-counter">👁️ Sedang memuat tayangan...</div>
+
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+  import { getFirestore, doc, getDoc, setDoc, updateDoc, increment } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
+
+  const firebaseConfig = {
+    apiKey: "AIzaSyABAp98Q4D0NCiCMfWAQpSo_dJmrCWMdbM",
+    authDomain: "faktasehari.firebaseapp.com",
+    projectId: "faktasehari",
+    storageBucket: "faktasehari.appspot.com",
+    messagingSenderId: "XXXX",
+    appId: "1:263688940434:web:0eb2595518d95a93176f4b"
+  };
+
+  const app = initializeApp(firebaseConfig);
+  const db = getFirestore(app);
+
+  // GUNAKAN URL SLUG SEBAGAI ID UNIK
+  const slug = "{{ page.url | slugify }}";
+  const docRef = doc(db, "pageViews", slug);
+
+  async function trackView() {
+    const snap = await getDoc(docRef);
+    if (snap.exists()) {
+      await updateDoc(docRef, {
+        views: increment(1)
+      });
+    } else {
+      await setDoc(docRef, {
+        views: 1
+      });
+    }
+
+    // Ambil data baru
+    const updatedSnap = await getDoc(docRef);
+    const count = updatedSnap.data().views;
+    document.getElementById("view-counter").innerText = `👁️ ${count} kali dibaca`;
+  }
+
+  trackView();
+</script>
+
+
 {% include site-footer.html %}
