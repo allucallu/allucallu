@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Hidup Sederhana ala Pertapa: Rahasia Menemukan Ketenangan di Era Serba Cepat"
+date: 2025-05-18
 description: "Cari ketenangan di tengah dunia serba cepat? Pelajari cara hidup sederhana ala pertapa modern untuk hidup yang lebih damai dan seimbang."
-keywords: ["gaya hidup pertapa", "hidup sederhana", "cara hidup tenang di era digital", "mindfulness", "hidup minimalis"]
+categories: [fakta-unik, gaya-hidup]
+tags: ["gaya hidup pertapa", "hidup sederhana", "cara hidup tenang di era digital", "mindfulness", "hidup minimalis"]
+author: Callu
 ---
 
 ![Suasana hening di pegunungan](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)

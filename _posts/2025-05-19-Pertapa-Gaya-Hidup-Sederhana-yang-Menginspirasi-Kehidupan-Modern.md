@@ -2,10 +2,11 @@
 layout: post
 title: "Pertapa dan Gaya Hidup Sederhana: Pelajaran Berharga untuk Kehidupan Modern"
 date: 2025-05-18
+description: "Temukan inspirasi dari kehidupan seorang pertapa. Pelajari gaya hidup sederhana yang menenangkan dan bagaimana menerapkannya dalam kehidupan sehari-hari."
 categories: [fakta-unik, gaya-hidup]
 tags: [pertapa, hidup sederhana, mindfulness, tips hidup, ketenangan batin]
 author: Callu
-excerpt: "Temukan inspirasi dari kehidupan seorang pertapa. Pelajari gaya hidup sederhana yang menenangkan dan bagaimana menerapkannya dalam kehidupan sehari-hari."
+
 ---
 
 ## Siapa Itu Pertapa?  
