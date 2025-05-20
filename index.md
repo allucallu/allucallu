@@ -16,8 +16,6 @@ Setiap artikel di sini ditulis untuk:
 
 Kami percaya bahwa hidup bisa lebih menyenangkan ketika kita terus belajar dan menemukan hal-hal baru.  
 
-{% include button.html text="Kunjungi Halaman Artikel" icon="book" link="/_posts" color="#0d94e7" %}
-{% include button.html text="Gabung di Newsletter" icon="mail" link="/newsletter" color="#f68140" %}
 
 ---
 
