@@ -8,6 +8,7 @@ image: /assets/assetArtikel/artikel 6.png
 tags: [anak muda, fenomena, generasi z, fakta sehari, gaya hidup]
 author: Callu
 ---
+![Fakta Harian](/assets/assetArtikel/artikel%206.png)
 
 # Fenomena Anak Muda Zaman Sekarang dan Fakta Menarik di Baliknya
 
@@ -74,6 +75,3 @@ Sebaliknya, anak muda masa kini adalah generasi yang adaptif, ekspresif, dan leb
 > ✨ Kamu, anak muda masa kini, punya gaya sendiri untuk menghadapi dunia. Dan itu valid.
 
 ---
-
-🧠 **#FaktaSehari**  
-Teman setia kamu dalam memahami realita anak muda zaman sekarang.
